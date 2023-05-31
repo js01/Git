@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as e,O as t}from"./chunks/framework.8d740aeb.js";const g=JSON.parse('{"title":"最常用的四个命令","description":"","frontmatter":{},"headers":[],"relativePath":"最常用的四个命令.md","filePath":"最常用的四个命令.md"}'),p={name:"最常用的四个命令.md"},n=t("",14),o=[n];function l(c,i,r,d,C,h){return a(),e("div",null,o)}const y=s(p,[["render",l]]);export{g as __pageData,y as default};

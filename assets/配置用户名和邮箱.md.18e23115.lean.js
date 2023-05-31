@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as o,O as n}from"./chunks/framework.8d740aeb.js";const d=JSON.parse('{"title":"配置用户名和邮箱","description":"","frontmatter":{},"headers":[],"relativePath":"配置用户名和邮箱.md","filePath":"配置用户名和邮箱.md"}'),e={name:"配置用户名和邮箱.md"},l=n("",3),t=[l];function p(c,r,_,i,C,D){return a(),o("div",null,t)}const A=s(e,[["render",p]]);export{d as __pageData,A as default};
